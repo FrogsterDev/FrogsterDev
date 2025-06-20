@@ -56,3 +56,20 @@
 <img align="left" alt="C" width="30px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
 <br />
+
+<div align="center">
+  <h2>My Contributions 🚀</h2>
+  <br />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/FrogsterDev/FrogsterDev/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br />
+
+<div align="center">
+  <h2>My Stats 📊</h2>
+  <img width=390 src="https://streak-stats.demolab.com/?user=FrogsterDev&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <br />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=FrogsterDev&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+  <br />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrogsterDev&hide=HTML&langs_count=4&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=FrogsterDev" alt="top langs" />
+</div>
