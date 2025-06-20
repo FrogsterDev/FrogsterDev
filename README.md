@@ -32,7 +32,7 @@
 
 <h2> 🛠️ Languages and Tools</h2>
   
-<h3>That I work with currently</h3>
+<h3 align="left">That I work with currently</h3>
 
 <img align="left" alt="C++" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="React" width="35px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -48,7 +48,7 @@
 
 <br />
   
-<h3>That I used to work in (nowadays only for specific tasks)</h3>
+<h3 align="left">That I used to work in (nowadays only for specific tasks)</h3>
 
 <img align="left" alt="Java" width="35px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="MySQL" width="35px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
