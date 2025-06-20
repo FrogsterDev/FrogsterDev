@@ -6,8 +6,11 @@
 <div align="center">
   
   💼 I'm currently seeking a job in **Switzerland**.
+  
   🎓 I'm currently learning **C/C++**, **AI Agents**, **MCP**'s and **Neo4j**.
+  
   🗣️ I speak **Polish🇵🇱**, **English🇬🇧** and recently started to learn **German🇩🇪**.
+  
   ⚡ Fun fact: I selfhost my own **Git** [here](https://git.jakubzabski.pl)... Why? I dunno 🤷‍♂️.
   
 </div>
