@@ -1,15 +1,31 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FrogsterDev.FrogsterDev" />
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Welcome!+%F0%9F%91%8B;I'm+Jakub+Zabski;Also+known+as+FrogsterDev" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=8B60F7&center=true&vCenter=true&width=435&lines=Welcome!+%F0%9F%91%8B;I'm+Jakub+Zabski;Also+known+as+FrogsterDev" alt="Typing SVG" /></a>
 
-</h1>
+<h3 align="center">A passionate software developer from Poland🇵🇱🥟 living in Switzerland🇨🇭🏔️</h3>
+<div align="center">
+  
+  💼 I'm currently seeking a job in **Switzerland**.
+  🎓 I'm currently learning **C/C++**, **AI Agents**, **MCP**'s and **Neo4j**.
+  🗣️ I speak **Polish🇵🇱**, **English🇬🇧** and recently started to learn **German🇩🇪**.
+  ⚡ Fun fact: I selfhost my own **Git** [here](https://git.jakubzabski.pl)... Why? I dunno 🤷‍♂️.
+  
+</div>
 
-# 🏂 FrogsterDev
-
+<div align="center">
+  <a href="mailto:jakub.zabski@protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/jakub-zabski-a4bb25225/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://jakubzabski.pl">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"/>
+  </a>
+</div>
 ---
 
-### 🧰 Languages and Tools
+### 🛠️ Languages and Tools
 
 #### That I work with currently
 
