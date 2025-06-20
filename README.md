@@ -31,7 +31,7 @@
 ---
 
 <h2> 🛠️ Languages and Tools</h2>
-  
+
 <h3 align="left">That I work with currently</h3>
 
 <div>
@@ -48,8 +48,6 @@
 <img align="left" alt="Docker" width="35px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
 
-<br />
-  
 <h3 align="left">That I used to work in (nowadays only for specific tasks)</h3>
 
 <div>
