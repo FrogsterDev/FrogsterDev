@@ -53,9 +53,6 @@
 
 <h3 align="left">That I used to work in (nowadays only for specific tasks)</h3>
 
-<br />
-<br />
-
 <div>
 <img align="left" alt="Java" width="35px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="MySQL" width="35px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
