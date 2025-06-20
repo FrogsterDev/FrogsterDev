@@ -31,8 +31,11 @@
 ---
 
 <h2> 🛠️ Languages and Tools</h2>
+
 <div align="center">
+  
 <h3>That I work with currently</h3>
+
 <img align="left" alt="C++" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="React" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="PostgreSQL" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -49,6 +52,7 @@
 <br />
 
 <div align="center">
+  
 <h3>That I used to work in (nowadays only for specific tasks)</h3>
 
 <img align="left" alt="Java" width="50px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -56,6 +60,7 @@
 <img align="left" alt="Python" width="50px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="C" width="50px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
+
 <br />
 
 <div align="center">
