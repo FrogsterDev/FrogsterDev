@@ -34,6 +34,7 @@
   
 <h3 align="left">That I work with currently</h3>
 
+<div>
 <img align="left" alt="C++" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="React" width="35px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="PostgreSQL" width="35px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -45,16 +46,18 @@
 <img align="left" alt="JavaScript" width="35px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="35px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Docker" width="35px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+</div>
 
 <br />
   
 <h3 align="left">That I used to work in (nowadays only for specific tasks)</h3>
 
+<div>
 <img align="left" alt="Java" width="35px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="MySQL" width="35px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Python" width="35px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="C" width="35px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
+</div>
 
 <br />
 
