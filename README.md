@@ -1,9 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FrogsterDev.FrogsterDev" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Welcome!+👋;+I'm+Jakub+Zabski!;A.K.A. FrogsterDev!;" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Welcome!+%F0%9F%91%8B;I'm+Jakub+Zabski;Also+known+as+FrogsterDev" alt="Typing SVG" />
+
 </h1>
 
 # 🏂 FrogsterDev
