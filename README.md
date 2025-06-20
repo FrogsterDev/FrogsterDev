@@ -1,3 +1,11 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FrogsterDev.FrogsterDev" />
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Welcome!+👋;+I'm+Jakub+Zabski!;A.K.A. FrogsterDev!;" />
+  </a>
+</h1>
+
 # 🏂 FrogsterDev
 
 ---
