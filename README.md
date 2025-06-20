@@ -30,10 +30,9 @@
 
 ---
 
-### 🛠️ Languages and Tools
-
-#### That I work with currently
-
+<h2> 🛠️ Languages and Tools</h2>
+<div align="center">
+<h3>That I work with currently</h3>
 <img align="left" alt="C++" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="React" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="PostgreSQL" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -45,17 +44,18 @@
 <img align="left" alt="JavaScript" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Docker" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
+</div>
 
 <br />
 
-#### That I used to work in (nowadays only for specific tasks)
+<div align="center">
+<h3>That I used to work in (nowadays only for specific tasks)</h3>
 
 <img align="left" alt="Java" width="50px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="MySQL" width="50px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="C" width="50px" style="padding-right: 2rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
+</div>
 <br />
 
 <div align="center">
