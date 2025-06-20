@@ -69,7 +69,6 @@
 <div align="center">
   <h2>My Stats 📊</h2>
   <img width=390 src="https://streak-stats.demolab.com/?user=FrogsterDev&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <br />
   <img width=390 src="https://github-readme-stats-iota-sable-50.vercel.app/api?username=FrogsterDev&rank_icon=github&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
   <br />
   <img width=390 src="https://github-readme-stats-iota-sable-50.vercel.app/api/top-langs/?username=FrogsterDev&hide=HTML,CSS&langs_count=4&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=FrogsterDev" alt="top langs" />
