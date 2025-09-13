@@ -8,9 +8,9 @@
   
   💼 Open to job offers.
 
-  👾 If you are looking for my cybersecurity related activity it's [here](https://frogsterdev.github.io)
+  👾 If you are looking for my cybersecurity related activity it's [here](https://frogsterdev.github.io).
 
-  🌐 If you are looking for my website its [here](https://jakubzabski.pl) (out-of-date & to-be-changed)
+  🌐 If you are looking for my website its [here](https://jakubzabski.pl) (out-of-date & to-be-changed).
 
   ⚡ Fun fact: I selfhost my own **Git** [here](https://git.jakubzabski.pl)... Why? I dunno 🤷‍♂️.
 
