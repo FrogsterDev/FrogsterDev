@@ -3,16 +3,20 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=8B60F7&center=true&vCenter=true&width=585&lines=Welcome!+%F0%9F%91%8B;I'm+Jakub+Zabski;Also+known+as+FrogsterDev" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">A passionate software developer from Poland🇵🇱🥟 living in Switzerland🇨🇭🏔️</h3>
+<h3 align="center">A passionate IT enthusiast from Poland🇵🇱🥟 living in Switzerland🇨🇭🏔️</h3>
 <div align="center">
   
-  💼 I'm currently seeking a job in **Switzerland**.
-  
-  🎓 I'm currently learning **C/C++**, **AI Agents**, **MCP**'s and **Neo4j**.
-  
-  🗣️ I speak **Polish🇵🇱**, **English🇬🇧** and recently started to learn **German🇩🇪**.
-  
+  💼 Open to job offers.
+
+  👾 If you are looking for my cybersecurity related activity it's [here](https://frogsterdev.github.io)
+
+  🌐 If you are looking for my website its [here](https://jakubzabski.pl) (out-of-date & to-be-changed)
+
   ⚡ Fun fact: I selfhost my own **Git** [here](https://git.jakubzabski.pl)... Why? I dunno 🤷‍♂️.
+
+  🎓 I'm currently learning **Rust**, **AGI**, **MCP**'s and **Graph Databases**.
+
+  🗣️ I speak **Polish🇵🇱**, **English🇬🇧** and recently started to learn **German🇩🇪**.
   
 </div>
 
