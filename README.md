@@ -39,6 +39,7 @@
 <h3 align="left">That I work with currently</h3>
 
 <div>
+<img align="left" alt="Rust" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 <img align="left" alt="C++" width="50px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="React" width="35px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="PostgreSQL" width="35px" style="padding-right: 0.5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
