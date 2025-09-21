@@ -10,9 +10,9 @@
 
   👾 If you are looking for my cybersecurity related activity it's [here](https://frogsterdev.github.io).
 
-  🌐 If you are looking for my website its [here](https://jakubzabski.pl) (out-of-date & to-be-changed).
+  🌐 If you are looking for my website its [here](https://jakubzabski.pl) (Shutdown).
 
-  ⚡ Fun fact: I selfhost my own **Git** [here](https://git.jakubzabski.pl)... Why? I dunno 🤷‍♂️.
+  ⚡ Fun fact: I selfhost my own **Git** [here](https://git.jakubzabski.pl)... Why? I dunno 🤷‍♂️. (Shutdown).
 
   🎓 I'm currently learning **Rust**, **AGI**, **MCP**'s and **Graph Databases**.
 
